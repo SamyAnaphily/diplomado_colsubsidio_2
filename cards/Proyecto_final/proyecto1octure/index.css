@@ -1,0 +1,18 @@
+.mb-3{
+    align-items:flex-start;
+    color: rgb(7, 6, 6);
+    background-color: rgb(240, 245, 245);
+}
+body{
+    background-color: rgb(232, 236, 225);
+}
+.container{
+    align-items:flex-start;
+}
+button{
+    border: 0ch;
+    color: black;
+}
+body{
+    color: darksalmon;
+}

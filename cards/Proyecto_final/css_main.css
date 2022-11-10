@@ -1,0 +1,22 @@
+body {
+    background-image: url(https://img.freepik.com/vector-premium/fondo-claro-abstracto-pequenos-cuadrados-o-pixeles-varios-tamanos-colores-blanco-gris_444390-9124.jpg?w=2000);
+    background-size: 800px;
+    background-repeat: repeat;
+}
+
+#tarjeta:hover{
+    scale: 1.0075;
+    cursor: pointer;
+}
+
+#footer_texto1{
+    font-size: 16px;
+}
+
+#footer_texto2{
+    font-size: 12px;
+}
+
+.links{
+    text-decoration: none;
+}
